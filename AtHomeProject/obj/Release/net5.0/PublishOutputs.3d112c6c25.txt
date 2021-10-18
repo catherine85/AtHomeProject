@@ -1,0 +1,15 @@
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\AtHomeProject.exe
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\AtHomeProject.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\AtHomeProject.deps.json
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\AtHomeProject.runtimeconfig.json
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\AtHomeProject.pdb
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\System.Net.Http.Extensions.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Users\Cathy\source\repos\AtHomeProject\AtHomeProject\obj\Release\net5.0\PubTmp\Out\System.Net.Http.Primitives.dll
